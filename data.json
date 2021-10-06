@@ -1,0 +1,72 @@
+[
+    {
+        "id": 0,
+        "name": "HTML",
+        "score": 90
+    },
+    {
+        "id": 1,
+        "name": "CSS",
+        "score": 90
+    },
+    {
+        "id": 2,
+        "name": "JavaScript",
+        "score": 75
+    },
+    {
+        "id": 3,
+        "name": "React",
+        "score": 70
+    },
+    {
+        "id": 4,
+        "name": "React Native",
+        "score": 30
+    },
+    {
+        "id": 5,
+        "name": "Redux",
+        "score": 45
+    },
+    {
+        "id": 6,
+        "name": "NodeJS",
+        "score": 50
+    },
+    {
+        "id": 7,
+        "name": "Python",
+        "score": 20
+    },
+    {
+        "id": 8,
+        "name": "Bootstrap",
+        "score": 90
+    },
+    {
+        "id": 9,
+        "name": "Web API",
+        "score": 50
+    },
+    {
+        "id": 10,
+        "name": "Express",
+        "score": 50
+    },
+    {
+        "id": 11,
+        "name": "MongoDB",
+        "score": 50
+    },
+    {
+        "id": 12,
+        "name": "MySQL",
+        "score": 20
+    },
+    {
+        "id": 13,
+        "name": "TypeScript",
+        "score": 70
+    }
+]
